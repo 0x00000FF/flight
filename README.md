@@ -1,2 +1,2 @@
 # flight
-An Experimental HTTP2 Web Server
+An Experimental HTTP2/QUIC Web Server
